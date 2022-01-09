@@ -8,6 +8,7 @@ class RetailBankingSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assertEquals(true, true);
 	}
 
 }
